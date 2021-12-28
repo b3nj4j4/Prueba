@@ -1,0 +1,15 @@
+* {
+ background-image: url('edificion.png');
+background-size:cover;
+}
+#Yama {
+    color:rgb(201, 37, 37);
+    font-size: 5em;
+    padding:0;
+    margin: 0;
+    border-style: solid;
+    border-color: mediumblue;
+    border-radius: 300px;
+    border-width: 5px;
+    background-color: cadetblue;
+}
